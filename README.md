@@ -17,4 +17,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=v46n&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=ffffff15&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&count_private=true" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v46n&layout=compact&theme=dark&bg_color=0d0d0d&border_color=ffffff15&title_color=ffffff&text_color=888888&hide_border=false" height="150" />
 
+<br/><br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=v46n.v46n)
+
 </div>
